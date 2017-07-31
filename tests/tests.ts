@@ -1,5 +1,5 @@
 import { assert } from 'chai';
-import * as Observable from 'zen-observable';
+import Observable from 'zen-observable';
 
 describe('Exports', () => {
   it('constructor', () => {
